@@ -1,0 +1,5 @@
+# Una expresion regular por linea. ε representa epsilon.
+(a*|b*)+
+((ε|a)|b*)*
+(a|b)*abb(a|b)*
+0?(1?)?0*

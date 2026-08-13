@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="330" viewBox="0 0 1560 330">
+<defs><marker id="flecha" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#253858"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/><text x="25" y="32" font-family="Arial" font-size="20" font-weight="bold">AFN 1: (a*|b*)+</text>
+<line x1="105.0" y1="165" x2="180.27272727272725" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="143.63636363636363" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">a</text>
+<line x1="232.27272727272725" y1="165" x2="434.8181818181818" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="334.5454545454545" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="182.27272727272725" y1="165" x2="107.0" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="143.63636363636363" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="359.5454545454545" y1="165" x2="434.8181818181818" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="398.18181818181813" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="309.5454545454545" y1="165" x2="107.0" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="207.27272727272725" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="486.8181818181818" y1="165" x2="1198.4545454545455" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="843.6363636363636" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="614.090909090909" y1="165" x2="689.3636363636364" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="652.7272727272727" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">b</text>
+<line x1="741.3636363636364" y1="165" x2="943.9090909090909" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="843.6363636363636" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="691.3636363636364" y1="165" x2="616.090909090909" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="652.7272727272727" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="868.6363636363636" y1="165" x2="943.9090909090909" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="907.2727272727273" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="818.6363636363636" y1="165" x2="616.090909090909" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="716.3636363636363" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="995.9090909090909" y1="165" x2="1198.4545454545455" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="1098.1818181818182" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="1073.181818181818" y1="165" x2="361.5454545454545" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="716.3636363636363" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="1073.181818181818" y1="165" x2="870.6363636363636" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="970.9090909090908" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="1250.4545454545455" y1="165" x2="1453.0" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="1352.7272727272727" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="1200.4545454545455" y1="165" x2="1125.181818181818" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="1161.8181818181818" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="1327.7272727272727" y1="165" x2="1125.181818181818" y2="165" stroke="#253858" stroke-width="2" marker-end="url(#flecha)"/><text x="1225.4545454545455" y="153" text-anchor="middle" font-family="Arial" font-size="16" fill="#b42318">ε</text>
+<line x1="1287.7272727272727" y1="165" x2="1325.7272727272727" y2="165" stroke="#16803c" stroke-width="3" marker-end="url(#flecha)"/><text x="1287.7272727272727" y="153" text-anchor="middle" font-family="Arial" font-size="14" fill="#16803c">inicio</text>
+<circle cx="80.0" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="80.0" y="171" text-anchor="middle" font-family="Arial" font-size="16">q0</text>
+<circle cx="207.27272727272725" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="207.27272727272725" y="171" text-anchor="middle" font-family="Arial" font-size="16">q1</text>
+<circle cx="334.5454545454545" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="334.5454545454545" y="171" text-anchor="middle" font-family="Arial" font-size="16">q2</text>
+<circle cx="461.8181818181818" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="461.8181818181818" y="171" text-anchor="middle" font-family="Arial" font-size="16">q3</text>
+<circle cx="589.090909090909" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="589.090909090909" y="171" text-anchor="middle" font-family="Arial" font-size="16">q4</text>
+<circle cx="716.3636363636364" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="716.3636363636364" y="171" text-anchor="middle" font-family="Arial" font-size="16">q5</text>
+<circle cx="843.6363636363636" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="843.6363636363636" y="171" text-anchor="middle" font-family="Arial" font-size="16">q6</text>
+<circle cx="970.9090909090909" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="970.9090909090909" y="171" text-anchor="middle" font-family="Arial" font-size="16">q7</text>
+<circle cx="1098.181818181818" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="1098.181818181818" y="171" text-anchor="middle" font-family="Arial" font-size="16">q8</text>
+<circle cx="1225.4545454545455" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="1225.4545454545455" y="171" text-anchor="middle" font-family="Arial" font-size="16">q9</text>
+<circle cx="1352.7272727272727" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<text x="1352.7272727272727" y="171" text-anchor="middle" font-family="Arial" font-size="16">q10</text>
+<circle cx="1480.0" cy="165" r="25" fill="#f5f8ff" stroke="#253858" stroke-width="2"/>
+<circle cx="1480.0" cy="165" r="20" fill="none" stroke="#16803c" stroke-width="2"/>
+<text x="1480.0" y="171" text-anchor="middle" font-family="Arial" font-size="16">q11</text>
+</svg>
