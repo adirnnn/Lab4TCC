@@ -1,5 +1,9 @@
 # Laboratorio 4 - Teoria de la Computacion
 
+## Video Link
+
+https://youtu.be/yk8uWgVa-PI
+
 ## Parte 1: AFN con algoritmo de Thompson
 
 El programa lee una expresion regular por linea desde `expresiones.txt`, construye el AFN equivalente usando el algoritmo de Thompson, crea un dibujo SVG de cada automata y simula una cadena asociada.
